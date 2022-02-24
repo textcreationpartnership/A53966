@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd to the artillery-company, at S. Mary le Bow, October 21 1679 and published at their earnest request / by Edw. Pelling ...</title>
+            <author>Pelling, Edward, d. 1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53966</idno>
+            <idno type="STC">Wing P1092</idno>
+            <idno type="STC">ESTC R33043</idno>
+            <idno type="EEBO-CITATION">12851852</idno>
+            <idno type="OCLC">ocm 12851852</idno>
+            <idno type="VID">94546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94546)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1038:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd to the artillery-company, at S. Mary le Bow, October 21 1679 and published at their earnest request / by Edw. Pelling ...</title>
+                  <author>Pelling, Edward, d. 1718.</author>
+               </titleStmt>
+               <extent>[2], 24 [i.e. 24]  p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Johnathon Edwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mistakes in paging.</note>
+                  <note>Reproduction of original in the Union Theolgoical Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Soldiers --  Religious life.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Conduct of life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94546:1"/>
+            <pb facs="tcp:94546:1" rendition="simple:additions"/>
+            <p>A SERMON PREACH'D TO THE Artillery-Company, AT S. MARY LE BOW, <hi>OCTOBER</hi> 21. 1679.</p>
+            <p>AND Publiſhed at their earneſt Requeſt.</p>
+            <p>By <hi>EDW. PELLING,</hi> Rector of S. <hi>Martin Ludgate,</hi> and Chaplain to his Grace the Duke of <hi>Somerſet.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jonathan Edwin,</hi> at the Three Roſes in <hi>Ludgate-ſtreet,</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:94546:2"/>
+            <pb n="1" facs="tcp:94546:2"/>
+            <epigraph>
+               <bibl>S. <hi>L<g ref="char:V">Ʋ</g>KE</hi> III. 14.</bibl>
+               <q>And the Souldiers likewiſe demanded of him, ſaying, And what ſhall we do?</q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat ſhall we do?</hi> is an old and general Queſtion, which many times will puz<g ref="char:EOLhyphen"/>zle even a wiſe man to anſwer. In this Chapter we find, firſt the People fa<g ref="char:EOLhyphen"/>cing <hi>John</hi> the <hi>Baptiſt</hi> with this Queſtion in their mouths. He had told them of an Ax that was now laid to the root; and preſently the people (who are commonly frighted at the noiſe of ſuch fatal and edged Inſtruments) came unto the <hi>Baptiſt,</hi> like a Forlorn Hope, and deſired him to tell them, <hi>what they ſhould do then?</hi> v. 10.</p>
+            <p>Then came the Publicans; which were Offi<g ref="char:EOLhyphen"/>cers under the <hi>Romans,</hi> that did Farm and Col<g ref="char:EOLhyphen"/>lect the Cuſtomary Taxations; but not content with their ordinary Profits and Pay, uſed all manner of Oppreſſion, racking and pillaging the people; ſo that the Name and Office of a Pub<g ref="char:EOLhyphen"/>lican was infamous even among the <hi>Romans</hi> themſelves; and in the Scripture, Publicans and Sinners commonly go together in Files. As ſoon as they heard of an Ax coming, 'tis no wonder if they ſhould be alarm'd too; they put
+<pb n="4" facs="tcp:94546:3"/>
+the ſame Queſtion to the Baptiſt which the reſt did, <hi>Maſter, What ſhall we do? v.</hi> 12.</p>
+            <p>In the Rear of all came theſe Souldiers in my Text, a ſort of men that had been uſed to the Sword, but yet were apt, as others, to be afraid of an Ax, and as unwilling to be hewn down. Theſe Souldiers are thought to have been <hi>Jews,</hi> that liſted themſelves under the <hi>Romans,</hi> and quartered up and down in Garriſons for the ſecu<g ref="char:EOLhyphen"/>rity of the Nation; who, though they thought themſelves obliged in Conſcience not to under<g ref="char:EOLhyphen"/>take any Military Expeditions, or to engage in an open War, and pitcht Battel, againſt their Coun<g ref="char:EOLhyphen"/>try-men, yet were a rapacious ſort of Infantry, (as ſordid Auxiliaries for the moſt part are) and not ſo over-kind to their Brother-hood, but that upon occaſion they would plunder and Forrage in an Hoſtile way, or skrew Booties out of them by Accuſations, after the manner of Delators and Pick-thanks. But as ſtout and inſolent as they were, it ſeems that S. <hi>John</hi>'s Sermon took down their Courage, when they heard that the Judg<g ref="char:EOLhyphen"/>ment of God was at their Heels, ready to cut its way, ſo that no Shield or Buckler could be their defence againſt it, their hearts ſunk (like men deſirous of Quarter) and hereupon they follow their Leaders, the Publicans and People, and be<g ref="char:EOLhyphen"/>ſeech the Baptiſt to give them their Charge
+<pb n="5" facs="tcp:94546:3"/>
+likewiſe, they demanded of him, ſaying, <hi>And what ſhall we do?</hi>
+            </p>
+            <p>From the Occaſion and Connexion of the Words, I might proceed to entertain you with <hi>John</hi>'s Reſolution of the Souldiers Queſtion. <hi>Do Violence to no man, neither accuſe any falſly, and be content with your Wages;</hi> which was a very ſeaſonable Charge then, conſidering, firſt, that the <hi>Jews</hi> at that time were yoked and kept un<g ref="char:EOLhyphen"/>der by the <hi>Roman</hi> Forces, and were ſubject to be oppreſt and harraſſed, and made a Prey of, whenſoever the <hi>Roman</hi> Eagle ſhould invade them with her Tallons and her Bill. And conſidering too the inſolent and baſe behaviour of theſe Souldiers, that not content with their ordinary Pay, liv'd like Harpies and Sycophants, upon Rapine and Spoyle. To them the Baptiſt ſpake home, aiming at the proper mark, and level<g ref="char:EOLhyphen"/>ling his Admonition at their ſin, and darting his Arrow that way where he was ſure to hit and to wound deepeſt.</p>
+            <p>But theſe directions may not ſeem ſo proper for this place, and for this Auditory, there being a vaſt diſparity and difference in reſpect both of Perſons and Times.</p>
+            <p n="1">1. In reſpect of Perſons. Theſe Souldiers in the Text were not ſo much as Liſted into the Chriſtian Religion, nor very well Diſciplin'd in
+<pb n="6" facs="tcp:94546:4"/>
+their own: but men who followed the Con<g ref="char:EOLhyphen"/>duct of their own impetuous Appetites, and minded no Law ſo much as that of Arms. But You have not ſo learned Chriſt, the Captain of your ſalvation; You, that are clad in the Ar<g ref="char:EOLhyphen"/>mour of God; You, that have Truth for a Mi<g ref="char:EOLhyphen"/>litary Girdle, and Righteouſneſs for a Breaſt<g ref="char:EOLhyphen"/>plate, and Charity for a Marching-Shoe, and Faith for a Shield, and Hope for an Helmet, and the Word of God for a Sword, as S. <hi>Paul</hi> de<g ref="char:EOLhyphen"/>ſcribes a Chriſtian that is armed <hi>Cap-a-pe,</hi> and that is ſtrong in the Lord, <hi>Epheſ.</hi> 6.</p>
+            <p n="2">2. There is difference too in reſpect of the Times; things being with us (though to the great diſſatisfaction of ſome Renegado's abroad, and ſome Mutineers at home) in a quiet and peaceable ſtate, and thoſe two dear Darlings of mens Affections, Liberty and Property, being in our actual and plenary poſſeſſion. Indeed <hi>S. John</hi>'s Admonition would be pertinent, were the Times ſuch as they were not ſo long ago that we ſhould forget them, when the Pulpit was the Drum, and <hi>Curſe ye Meroz,</hi> and Rebellion, was the Beat; when the whole Land was ſequeſtred into the Claws of our <hi>Mortiſied Saints,</hi> after they had luſtily ſqueez'd the Publick Faith, and when an Information was the Price of the greateſt Eſtate; then 'twas a ſeaſonable Command to our Ma<g ref="char:EOLhyphen"/>ſters,
+<pb n="7" facs="tcp:94546:4"/>
+thoſe Ruffians in Buff, <hi>Do no violence to no man, neither accuſe any falſly.</hi> But conſidering the poſture of our Affairs, that (God be bleſſed) it is yet undiſturb'd, ſo that your Arms are not for Terrour, but for Shew only, I muſt be par<g ref="char:EOLhyphen"/>don'd, if I do not tye my ſelf ſtrictly to the Baptiſt's Anſwer, but reſolve the Souldiers Que<g ref="char:EOLhyphen"/>ſtion in ſuch a way as may ſuit with our Times, and in ſome meaſure anſwer the purport of this Solemnity.</p>
+            <p>The general deſign of <hi>S. John,</hi> was to Train theſe Souldiers into good Manners; and ſo my firſt buſineſs ſhall be to adviſe you to have a good Conſcience. I do not ſpeak of a cheap Humour, or an Opinion that is eaſily taken up, or a perverſe Perſwaſion; much leſs do I mean the acting upon looſe Principles; Principles which among honeſt men will not paſs Muſter; for ſuch a Conſcience is nothing elſe but the Colour of a Knave, or the Trumpet of a Rebel. But by a good Conſcience, is underſtood a Judg<g ref="char:EOLhyphen"/>ment that is rightly informed, and that is faith<g ref="char:EOLhyphen"/>fully obey'd, ſo that the reſult thereof is Vertue, and Religion, and Righteouſneſs, which is in<g ref="char:EOLhyphen"/>deed the Breaſt-plate of every good Chriſtian. Let ſuch a Conſcience as this be your Armour; a Conſcience that will endure the Shock, that will ſtand by a man undaunted in the day of
+<pb n="8" facs="tcp:94546:5"/>
+Battel, and that will be a Guard and a Comfort to him at the Onſet of Death. We read of that Centurion, <hi>Cornelius,</hi> that he was <hi>a devout man, and one that feared God, with all his houſe,</hi> Act. 10. 2. Piety, and a Religious Dread of offend<g ref="char:EOLhyphen"/>ing God, is a neceſſary Qualification in a Soul<g ref="char:EOLhyphen"/>dier; whether we conſider, Firſt, the Quality of his Office; or, Secondly, the Dangers which do attend his Employment; or, Thirdly, the Iſſue which he expecteth by his Atchievments.</p>
+            <p n="1">1. A good Conſcience is neceſſary in reſpect of his Office; for ſo it makes him the more Ho<g ref="char:EOLhyphen"/>nourable. Thoſe Military Exploits, with which Great and Noble Spirits have made all Hiſtories to ſwell, were ſo far from being any Blot in their Eſcutcheons, that they have been a Luſtre to their Families and Names, and were many times the Foundation, ſometimes an Addition, always an Ingredient of their greateſt Honours: And generally the beginning of the moſt ſplendid Fortunes, and the Originals of the higheſt Ti<g ref="char:EOLhyphen"/>tles and Names of Renown, were fetcht from the Camp, as the juſt Reward of Fortitude and Gallantry, of Gore and Blood. Upon which ſcore, the <hi>Greek</hi> Hero's, the <hi>Roman</hi> Conſuls and Dictators, and (who have been as matchleſs as any) our <hi>Engliſh</hi> Worthies, have been Great and Honourable at Home, becauſe they were Faith<g ref="char:EOLhyphen"/>ful,
+<pb n="9" facs="tcp:94546:5"/>
+Valiant, and Victorious in the Field.</p>
+            <p>Now, what a diſparagement is it to your Coat, that a Noble and Brave Spirit ſhould Ca<g ref="char:EOLhyphen"/>ſhier his Honour, and ſtain his Name and Blood with Vice, which is even a ſtain to the Dung<g ref="char:EOLhyphen"/>hill? What a blemiſh is it, that he ſhould drink himſelf out of the ſhape of a Man into the ſimi<g ref="char:EOLhyphen"/>litude of a Beaſt, that you would think you ſaw a Swine in Buff, or a dead Aſs in a Lyons skin? what a diſhonour is it, that he ſhould take up the Porters ſin, and diſcharge Oaths inſtead of o<g ref="char:EOLhyphen"/>ther Ammunition? and let fly upon the Croſs, which has been the Ornament of Scepters and Banners? and imitate the impertinent Ma<g ref="char:EOLhyphen"/>lice of that Infidel that ſtuck Chriſt's ſide with a Spear? In a word, what a ſhame is it, that men, for whom States and Empires cannot af<g ref="char:EOLhyphen"/>ford Trophies enough, ſhould be Beleaguer'd and Vanquiſh'd by their Luſts; and that they who fear not the threats of a Cannon, or the face of Death, ſhould not be ſo much as Beauty<g ref="char:EOLhyphen"/>proof, but captivated by the very Looks of a Female Enemy? When you ſee a <hi>Sampſon</hi> put<g ref="char:EOLhyphen"/>ting off his Laurels of Victory, and yielding up his Locks to the Sciſſers of a <hi>Dalilah:</hi> When you ſee an <hi>Hercules</hi> ſubmitting to carry <hi>Omphale</hi>'s Slippers; an <hi>Athanericus</hi> ſtooping down to tye his Miſtreſſes Shoes, a <hi>Sardanapalus</hi> exchanging his Sword for a Diſtaff; a <hi>Coeſar</hi> and an <hi>Anthony</hi>
+               <pb n="10" facs="tcp:94546:6"/>
+led in Triumph by a Defenceleſs <hi>Cleopatra;</hi> and the Flower of all <hi>Greece</hi> taking up Arms for the ſake of a Noble Whore; what ſhameful Inſtan<g ref="char:EOLhyphen"/>ces do you not ſee of folly and degenerous Na<g ref="char:EOLhyphen"/>tures, which are ſo far from becoming the Chieftains and Maſters of the Artillery, that they are reproachful to the rudeſt <hi>Tyro,</hi> and to the meaneſt Rank of Drudges that attend the com<g ref="char:EOLhyphen"/>mon Baggage.</p>
+            <p>So that were only the Grandeur of your Socie<g ref="char:EOLhyphen"/>ty concern'd, Vertue and a Good Conſcience is neceſſary in a Souldier, to make him the more Honourable and Illuſtrious.</p>
+            <p n="2">2. But, ſecondly, If he doth conſider the Dangers which meet him in the Face, he will find another neceſſity for it, to make him the more Valiant. The Apoſtle, ſpeaking of thoſe Religious Champions of old, tells us, <hi>That through Faith they ſubdued Kingdoms, out of weak<g ref="char:EOLhyphen"/>neſs were made ſtrong, waxed valiant in Fight, and turned to flight the Armies of the Aliens,</hi> Heb. 11. A firm Belief in God, when 'tis Harneſſed with Good Works, is a ſturdy, puiſſant, and victori<g ref="char:EOLhyphen"/>ous thing. But Vice makes men Sneaks and Cowards; and a Wing of Miſcreants have juſt Reaſon to flee, when Death is coming out of the Muzzle of a Gun, or upon the Point of a Sword; becauſe the formidable appearance of
+<pb n="11" facs="tcp:94546:6"/>
+Hell is coming too; and then the hearts of Ir<g ref="char:EOLhyphen"/>religious men will Recoil, and evil Conſciences will run into Pits, or Woods, or into any Cor<g ref="char:EOLhyphen"/>ners on this ſide the Territories of the damned, and out of the reach of him whoſe Name is <hi>Le<g ref="char:EOLhyphen"/>gion.</hi>
+            </p>
+            <p>It is not to be denyed, but there is a ſort of audacity and fool-hardineſs, which is a reſem<g ref="char:EOLhyphen"/>blance of true Valour, and which the vileſt of men are capable of, either by reaſon of the heat of a ſanguine Conſtitution, or through the pre<g ref="char:EOLhyphen"/>valency of wrong Principles, which hurry them headlong upon danger, or through Malice and Spight againſt Government, or through a ne<g ref="char:EOLhyphen"/>ceſſity of Effrontery, when their Fortunes are deſperate, or their Perſons are environ'd with ſtraits and inconquerable difficulties, or the like: And ſo <hi>Turks,</hi> and Jeſuits, and Heathens them<g ref="char:EOLhyphen"/>ſelves have been bold; and our own Hiſtories of the late Times afford us Inſtances of many who did not dare to be loyal and good Subjects, but yet did dare to be Traytors, Regicides, and De<g ref="char:EOLhyphen"/>vils in the ſhape of men. But this is a brutiſh ſort of Bravery, like the Valour of an Horſe, that ruſheth into the Battel without fear or wit, or conſideration of a Spears point. But let the <hi>Impetus</hi> be once over, let the Wretch come ſo<g ref="char:EOLhyphen"/>berly to debate his preſent Affairs, and to take a
+<pb n="12" facs="tcp:94546:7"/>
+true proſpect of his future ſtate, then his ſpirits will Flag, and his ſtoutneſs will be Creſt-faln; and take it for a general Rule, that none ſhall undertake an Enterpriſe with ſo much readineſs, or engage in a Rencounter with ſo much forti<g ref="char:EOLhyphen"/>tude, or maintain his Ground with ſo much con<g ref="char:EOLhyphen"/>ſtancy, or defie the Roarings of the Field with ſuch a fixt reſolution, as the man who is Girt about with Integrity, and to whom a Good Conſcience is a Coat of Mail: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>Maximus Tyrius,</hi> the Pagan Philoſopher, ſaid, <hi>He that loves God receives death willingly, and is not cow'd at its ap<g ref="char:EOLhyphen"/>proaches, but keeps his Station, and his Poſt, with a Steel'd Courage.</hi>
+            </p>
+            <p n="3">3. Let me add, thirdly, that none ſhoulders off an Enemy with ſuch ſucceſs, or Crowns his Feats of Arms with ſuch proſperity; becauſe his whole life is a Prayer, whereby he offers Vio<g ref="char:EOLhyphen"/>lence to Heaven, <hi>quaſi manu facta,</hi> (as <hi>Tertulli<g ref="char:EOLhyphen"/>an</hi> ſpeaks) Beſieging and Battering it, as it were with a mighty Hoſt: And on this ſcore too, Vertue and a good Conſcience is neceſſary in a Souldier, becauſe it maketh him the more Vi<g ref="char:EOLhyphen"/>ctorious.</p>
+            <p>'Tis true; a good Cauſe, and good Men, and good Souldiers do not always ſucceed. A <hi>Se<g ref="char:EOLhyphen"/>nacherib,</hi> or a <hi>Nero,</hi> or a <hi>Cromwel</hi> may win the
+<pb n="13" facs="tcp:94546:7"/>
+day, when Providence intends to bring a People under the Harrow and the Saw: Then indeed God paſſeth Sentence, as a Judge; but generally with good men he helpeth as a Confederate and a Party. The care of good <hi>Joſhua</hi> was, that himſelf, and his whole houſe, and all <hi>Iſrael</hi> might ſerve the Lord, and Victory ſtill waited at his Heels, and, like that Centurion's Servant, <hi>Mat.</hi> 8. 'twas at his beck and command; ſo that within the compaſs of a few years, more Conqueſts were made, more Kings vanquiſh'd, more Crowns won, and more Scepters were broken by that one General, than, perhaps, the twelve <hi>Caeſars</hi> at <hi>Rome</hi> ever ſaw. So alſo we read of <hi>David,</hi> that he was a man according to God's own heart, and from the Age of a Stripling all-a-long he got Victories after Victories, (over the <hi>Philiſtines,</hi> the <hi>Amalekites,</hi> the <hi>Moabites,</hi> the <hi>Ammonites,</hi> the <hi>Syrians,</hi> and the reſt) ſome by his Sling, ſome by his Sword, ſome by the Terrour of his Arms, all by the Bleſſing of God, as the Brabi<g ref="char:EOLhyphen"/>um and Prize which he obtained by his Zeal for Religion. Not to ſpeak of other Victorious Captains among the <hi>Jews</hi> (who were therefore Victorious Commanders, becauſe Pious Men;) it is clear, that in the Infant-times of Chriſtiani<g ref="char:EOLhyphen"/>ty, though the Holy Profeſſors of it were hated, harraſſed, and great numbers of them
+<pb n="14" facs="tcp:94546:8"/>
+cut off by the Heathens, yet were they ſo ſer<g ref="char:EOLhyphen"/>viceable to them in their Wars, that the Brunt of the Battel was wont to lye upon them. Where<g ref="char:EOLhyphen"/>as others were Lyons in Peace, but Harts in War, (as <note n="*" place="margin">Tert. de Cort. Mil.</note> 
+               <hi>Tertullian</hi> ſpeaks,) the Chriſtian was their only truſty Souldier; ſo that though the Infidels hated them for their Religion, yet did they make uſe of them for their good ſervice; witneſs the Army under <hi>Julian,</hi> which was moſt of them Chriſtians; and the <hi>Theban Legion</hi> un<g ref="char:EOLhyphen"/>der <hi>Maximian,</hi> which were Chriſtians; and the <hi>Fulminatrix Legio,</hi> under <hi>Antoninus,</hi> which were Chriſtians; to whoſe Piety the <hi>Romans</hi> were ſo indebted, that the Emperour, writing to the <hi>Senate,</hi> told them in his Letter (a Copy where<g ref="char:EOLhyphen"/>of we have in <hi>Juſtin Martyr,)</hi> that the Chriſtians <note place="margin">Apol. 2.</note> ſaved his whole Army from deſtruction at that time, when he was in the bowels of <hi>Germany.</hi> For all being ready to periſh for want of water, the Chriſtians fell down upon their Knees to Prayer; and thereupon plenty of Rain fell down ſtraight, which preſerved the <hi>Roman</hi> Forces; but Hail mingled with Fires fell down in abun<g ref="char:EOLhyphen"/>dance on the Heads of their Enemies. And thence it was (as ſome conceive) that That Le<g ref="char:EOLhyphen"/>gion of Chriſtians was called, <hi>the Lightning-ſtri<g ref="char:EOLhyphen"/>king Legion.</hi>
+            </p>
+            <p>You ſee by this time, how neceſſary Religion
+<pb n="15" facs="tcp:94546:8"/>
+and a good Conſcience is for a <hi>Souldier:</hi> It makes him the more Honourable in his Office, the more Valiant in his Expeditions, and the more Victorious in the Event.</p>
+            <p>And when I have ſaid this, you may think that in effect I have ſaid all. But yet, to come ſomewhat cloſer home in the Reſolution of this Queſtion in my Text, there are ſome particular things which muſt fall under the Conſideration and Care of a <hi>Souldier,</hi> that the Formidable Iſ<g ref="char:EOLhyphen"/>ſues of his Warlike Undertakings may be legiti<g ref="char:EOLhyphen"/>mated.</p>
+            <p>No doubt, but upon certain Occaſions, and in certain Caſes, Wars may be lawfully Levyed. Theſe <hi>Souldiers</hi> which came to <hi>John</hi> here, were not order'd to lay down their Arms, but to <hi>do no Wrong,</hi> and to <hi>be content with their Wages:</hi> And <hi>Cornelius,</hi> that was made a Chriſtian by the Mi<g ref="char:EOLhyphen"/>niſtry of <hi>S. Peter,</hi> was not directed to lay down his Commiſſion, but continued a Centurion ſtill. And the Truth is, Wars between States are of the ſame Nature with Law-ſuits between Private Perſons, only the Charges and Coſt are much more conſiderable, by how much Blood is more valuable than Money. Now as Appeals to the Magiſtrate are lawful, ſo are Appeals to
+<pb n="16" facs="tcp:94546:9"/>
+the <hi>Sword,</hi> when the Accounts and Conſidera<g ref="char:EOLhyphen"/>tions are weighty, and there is no other poſſible way of redreſs.</p>
+            <p>Yet the lawfulneſs of War notwithſtanding, there are three things chiefly which every Mili<g ref="char:EOLhyphen"/>tary man is bound in Conſcience to have a care<g ref="char:EOLhyphen"/>ful Eye unto. 1. The Authority, by Vertue whereof he enters into the Field. 2. The End, to which he imployeth his Arms. 3. That Obe<g ref="char:EOLhyphen"/>dience and Fealty which he oweth to the Magi<g ref="char:EOLhyphen"/>ſtate, throughout the whole courſe of his Acti<g ref="char:EOLhyphen"/>ons. Of theſe briefly, that I may not hinder your March.</p>
+            <p n="1">1. For the Authority: it muſt be juſt and law<g ref="char:EOLhyphen"/>ful. <hi>All they that take the Sword ſhall periſh with the Sword,</hi> ſaith our Saviour, <hi>Mat.</hi> 26. 52. mean<g ref="char:EOLhyphen"/>ing ſuch as take it of themſelves, and ſnatch it into their hands, being not called unto it by due and competent Authority. For God being the ſole Author of our lives, the Power of life and death is Originally in him alone; but Deri<g ref="char:EOLhyphen"/>vatively in thoſe to whom he hath delegated this Power by ſpecial Commiſſion; and they are thoſe whom S. <hi>Paul</hi> calleth the <hi>Higher</hi> (or the Supreme) <hi>Powers, Rom.</hi> 13. 1. where he mean<g ref="char:EOLhyphen"/>eth the Perſon of the Magiſtrate in chief, who is le<g ref="char:EOLhyphen"/>gally
+<pb n="17" facs="tcp:94546:9"/>
+conſtituted, and hath gotten the Authority into his hands not by Uſurpation, but by Law and Right; the Independant and Rightful Magiſtrate in every Nation, <hi>whether it be the King as Su<g ref="char:EOLhyphen"/>preme,</hi> 1 <hi>Pet.</hi> 2. 13. Now he is called the Miniſter of God, becauſe the <hi>Sword</hi> which he beareth is put into his hands by the Authority of God a<g ref="char:EOLhyphen"/>lone, to be drawn by him, and to be put into the hands of his <hi>Subjects</hi> by his Warrant; ſo that whoſoever ſhall enter into dangers of his own life, upon his own head, is a Murderer of him<g ref="char:EOLhyphen"/>ſelf; or ſhall take away the life of his Neighbour, without the Command or leave of his <hi>Soveraign,</hi> is a Murderer of another. And upon this ſcore, I ſtick not to ſay, That the Unnatural War which was raiſed lately by the Long and Diſloyal Par<g ref="char:EOLhyphen"/>liament, was a direct Rebellion; and (they hav<g ref="char:EOLhyphen"/>ing not the Power of War legally in their hands) all ſuch as did engage by pretended Commiſſi<g ref="char:EOLhyphen"/>ons from them, were (notwithſtanding their <hi>Saintſhips)</hi> ſo many Formal Murderers, and were actually guilty of all that Blood-ſhed, for which, for ought I know, the Ax is now laid to the Root of the Tree; which as it ought to be a Terrour to all Repreſentatives of the People for the future, ſo it ought alſo to be a warning<g ref="char:EOLhyphen"/>piece to every Subject (eſpecially to every Soul<g ref="char:EOLhyphen"/>dier)
+<pb n="18" facs="tcp:94546:10"/>
+to take diligent care (as he will anſwer it to the Lord of <hi>Hoſts,</hi> who will one day make Inquiſition for Blood) that he Sound not to the Battel, or run into it, but by the Commands of due and lawful Authority.</p>
+            <p n="2">2. A ſecond thing he is to do, is to conſider the Ends of his Martial Undertakings, whether they be lawful and good too; for the End ſerv<g ref="char:EOLhyphen"/>eth very much to denominate an Action either good or bad. Now if a man enters himſelf in<g ref="char:EOLhyphen"/>to the Muſter-Roll out of a ſincere deſign to ſerve his King, to preſerve Peace, and to defend his Country from Foreign Invaſion, or Domeſtick Inſurrections, either by preventing, or by ſup<g ref="char:EOLhyphen"/>preſſing the Hoſtilities of evil men, the End is good, and the Action is juſt, honourable and ex<g ref="char:EOLhyphen"/>cellent.</p>
+            <p>But then, firſt, for a man to aim at mens lives for Spoylſake, to Trail for Plunder, and to Advance for Pay, as the main end of his Milita<g ref="char:EOLhyphen"/>ry Services, is a vile and a baſe thing; becauſe Violence is not to be a man's ordinary Trade for a Livelyhood; nor is it to be imagined, that he was born into the World, that he ſhould live only by ſlaſhing and wounding, and cutting mens Throats. To which purpoſe ſome learned men
+<pb n="19" facs="tcp:94546:10"/>
+have noted upon my Text, That had theſe been <note place="margin">V. Grot. in Loc.</note> ſuch <hi>Souldiers</hi> of Fortune, as lead a Mercenary and Belluine life, and rove up and down, hewing and hacking meerly for Booty ſake, the Baptiſt would have given them another kind of Anſwer, and ſent them from their Quarters, as a ſort of Inhu<g ref="char:EOLhyphen"/>mane and Barbarous Villains.</p>
+            <p>So, ſecondly, for men to Rendezvous with a deſign to make Havock of the true Religion, is a moſt Wicked and Damnable thing; for the Charge here, <hi>Do Violence to no man,</hi> does rather reſtrain Souldiers from doing Violence to the Men of God, and to the Faith of Chriſt. None can, but with a moſt guilty and ſear'd Con<g ref="char:EOLhyphen"/>ſcience, be a Pioneer in this ſenſe, to Blow up Religion, or to Undermine the Church, which is the Pillar and Ground of Truth, 1 <hi>Tim.</hi> 3. 15. Theſe <hi>Jewiſh Souldiers,</hi> though they were men of large Conſciences, and of Iron Hearts, yet they abhorred the very thoughts of turning the Point of their Swords upon their Country<g ref="char:EOLhyphen"/>men, and would chuſe to endure any Puniſh<g ref="char:EOLhyphen"/>ments, rather than they would ſtrike a Blow to the prejudice of their <hi>Native Religion.</hi> Nay, <hi>Joſephus</hi> 
+               <note place="margin">Antiq. l. 20. c. 4.</note> tells us, that, <hi>When an Heathen Souldier had by chance found the Books of</hi> Moſes, <hi>and tore them in pieces, the</hi> Roman <hi>Procurator,</hi> Cumanus (a man
+<pb n="20" facs="tcp:94546:11"/>
+that hated the <hi>Jews</hi> ſufficiently, but) <hi>was ſo a<g ref="char:EOLhyphen"/>ſham'd of the Fact, that to revenge the Affront which had been offered to God himſelf, ordered the prophane Wretch preſently to be beheaded.</hi> What an horrid thing would it be, ſhould You that have been Train'd up in the beſt Reformed Church upon the Earth, (a Church, which, though Mi<g ref="char:EOLhyphen"/>litant, was never yet the Mother of <hi>Rebels,</hi> ſhould You at laſt) eſpouſe a Quarrel againſt her Bible, againſt her Sacraments, againſt her Faith, or a<g ref="char:EOLhyphen"/>gainſt her Members? When the <hi>Thebean Legion</hi> of old was commanded by the Emperour to fall upon their Fellow-Chriſtians, rather than they would wound their own Conſciences by ſuch an Act of Impicty, they were content firſt to lay down their Arms, and then to offer up their own Necks for a Sacrifice. In thoſe times more or braver Martyrs were not to be found, than what were bred in the Field. They were a <hi>Safeguard</hi> to their Prince, and an <hi>Honour</hi> to Re<g ref="char:EOLhyphen"/>ligion, and counted it <hi>Honourable</hi> to dye for Re<g ref="char:EOLhyphen"/>ligion; but if once Religion was to be perſe<g ref="char:EOLhyphen"/>cuted, no Inducements in the World could prevail with them o lift up a Weapon, or ſo much as a Finger againſt it.</p>
+            <p>I have the more inſiſted upon this, becauſe the Ax is now laid to the root of Tree: Not only
+<pb n="21" facs="tcp:94546:11"/>
+the Ax of Gods Judgments, but the Ax of ſome mens Malice too, who deſign to extirpate our true Religion, to Hew it all down at once, and to make deſtruction of Root and Branch. To aſſiſt and join with ſuch Engineers, is a moſt impious and ſacrilegious thing.</p>
+            <p>And let me add, thirdly, That to take up Arms raſhly, and without or againſt due Autho<g ref="char:EOLhyphen"/>rity, meerly for the Defence of the true Religi<g ref="char:EOLhyphen"/>on, is unwarrantable and unlawful. For Chriſt's Kingdom is not of this World; and for that Reaſon his ſervants are not to fight for him, be<g ref="char:EOLhyphen"/>cauſe his Kingdom is not from hence, <hi>Job.</hi> 18. 36. He left the Power of the Militia in the ſame hands where he found it. And Chriſtians are not to ſnatch that Power into their own hands, to maintain the Cauſe of Religion, and to de<g ref="char:EOLhyphen"/>cide Controverſies in Divinity by the Edge of the Sword. Though ſome have fought for an <hi>Alcoran,</hi> others for a <hi>Legend,</hi> and others for a <hi>COVENANT,</hi> yet no Pretences, no Cauſe, no Church can juſtifie ſuch violent and arbitrary Proceedings, no, not for the ſake of the Goſpel; <hi>For we do not war after the fleſh, neither are the Wea<g ref="char:EOLhyphen"/>pons of our Warfare carnal,</hi> ſaith <hi>S. Paul,</hi> 2 <hi>Cor.</hi> 10. And elſewhere ſhewing the Chriſtians Arms, he mentions Truth, Righteouſneſs, Charity, Faith,
+<pb n="22" facs="tcp:94546:12"/>
+Hope, the Word of God, and Prayer; and of theſe he ſaith twice together, that it was <hi>the Ar<g ref="char:EOLhyphen"/>mour,</hi> and <hi>the whole Armour of God,</hi> Epheſ. 6.</p>
+            <p>That <hi>Souldier</hi> then that will keep a good Con<g ref="char:EOLhyphen"/>ſcience as his Sentinel and Guard, muſt conſi<g ref="char:EOLhyphen"/>der firſt the Authority by which, and then the Ends for which he undertaketh a Martial Em<g ref="char:EOLhyphen"/>ployment. And according as thoſe Ends are either. Good or Evil, ſo are his Undertakings ei<g ref="char:EOLhyphen"/>ther honeſt or ſinful.</p>
+            <p n="3">3. There is now but one thing more you are to conſider of; <hi>viz.</hi> That Obedience and Fealty you owe to the Supreme Power under whom you act. For it is required, as in a Steward, ſo in a Souldier, that he be found faithful: Nei<g ref="char:EOLhyphen"/>ther a Deſertor, nor a Traytor. <hi>Let every Soul be ſubject,</hi> faith the Apoſtle, <hi>Rom.</hi> 13. 1. where he taketh in men of all Ranks and Qualities, whe<g ref="char:EOLhyphen"/>ther in an Eccleſiaſtical, or in a Civil, or in a Military Station: and <hi>whoſoever reſiſteth</hi> (either the Authority or Perſon of the King) <hi>ſhall re<g ref="char:EOLhyphen"/>ceive to himſelf damnation.</hi> A dreadful Sentence: becauſe Subjection is a moſt neceſſary Duty. And this the Primitive and beſt Chriſtians were ſo careful to obſerve, that notwithſtanding the impious Perſecutions, and the unheard of Cru<g ref="char:EOLhyphen"/>elties
+<pb n="23" facs="tcp:94546:12"/>
+of their Princes; though ſome of them were Infidels, ſome Hereticks, one of them an Apoſtate, and moſt of them Oppreſſors and Perſecutors of Religion, yet Chriſtians (and e<g ref="char:EOLhyphen"/>ven thoſe who had Swords in their hands) re<g ref="char:EOLhyphen"/>ſolved to undergo all Miſeries and Torments, and a thouſand Deaths, rather than they would make any the leaſt Reſiſtance. Nay, notwith<g ref="char:EOLhyphen"/>ſtanding the prodigious numbers of Chriſtians too; though (as <hi>Tertullian</hi> tells us expreſly) Chriſtians filled the <hi>Roman</hi> Empire, their Cities, <note place="margin">
+                  <hi>Apolog. c.</hi> 37.</note> Iſlands, Caſtles, Towns, Councils, Palaces, Se<g ref="char:EOLhyphen"/>nates, Courts, and their very Camps too, ſo that they could have ruin'd their Enemies even with<g ref="char:EOLhyphen"/>out the uſe of Arms, and meerly by holding off from their ſervices; yet ſo true were they for Conſcience ſake, that not ſo much as one Chri<g ref="char:EOLhyphen"/>ſtian did ever offer (in thoſe days) to Rebel. And of this we have two very memorable In<g ref="char:EOLhyphen"/>ſtances: The one in <hi>Julian</hi>'s Army, which con<g ref="char:EOLhyphen"/>ſiſted for the moſt part of Chriſtians; who, not<g ref="char:EOLhyphen"/>withſtanding thoſe intolerable uſages, which they, and the whole Chriſtian Religion, received at his hands, yet never ſo much as attempted to uſe thoſe advantages they had, either to attack his Perſon, or to invade his Prerogatives, nor lifted up their hands, but in Prayer for the Em<g ref="char:EOLhyphen"/>perour,
+<pb n="24" facs="tcp:94546:13"/>
+when a Pagan, an Apoſtate, and their inveterate Enemy. The other is in the <hi>Thebean</hi> Legion (I mentioned before) conſiſting of ſix thouſand ſix hundred ſixty ſix Souldiers, and all of them <hi>Chriſtians,</hi> and, had they not been ſo, enough to have been ſucceſsful <hi>Traytors.</hi> But after too ſeveral Decimations, each Tenth <note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ucker. L<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>d.</note> man being kill'd upon the ſpot, for refuſing <hi>Maximian</hi>'s moſt unjuſt Commands, they meekly yielded up themſelves (the whole Bo<g ref="char:EOLhyphen"/>dy of them) to be cut in pieces at their Enemies Feet, thereby ſhewing unto all men, and eſpecially to men of War, how neceſ<g ref="char:EOLhyphen"/>ſary it is for ſuch, as are once Matriculated into the Service of Chriſt, to live good Sub<g ref="char:EOLhyphen"/>jects, and, if need be, to dye Martyrs.</p>
+            <p>By this time, Beloved, you cannot but ſee your Duty, if you enquire, as thoſe Souldiers did in my Text, <hi>And what ſhall we do?</hi> When the Ax is laid to the root, the beſt way to keep the Tree from falling, is to prevail with God to take his hand off; and the way to that, is not to murmur and complain of the Danger, but for every man to do his Duty in his Place, and to move regularly in that Sphere where Provi<g ref="char:EOLhyphen"/>dence hath ſet him. You are Chriſtians, Citi<g ref="char:EOLhyphen"/>zens, and Souldiers, and your Society is a Nur<g ref="char:EOLhyphen"/>ſery
+<pb n="25" facs="tcp:94546:13"/>
+of Valour: Men, in whom our Soveraign doth repoſe much Truſt, and on whom the whole Nation may at this time have fixt their Eyes, obſerving your Motions, and which way you will lead others, whether to the Right, or Left. Your care ought to be the greater, in the prudent and Chriſtian Government of your ſelves, that you give not Fire to thoſe, who are ready to receive any little <hi>Spark.</hi> Herein then Exerciſe your ſelves principally, as <hi>good Souldiers</hi> of Jeſus Chriſt, to keep a Conſcience void of Of<g ref="char:EOLhyphen"/>fence both to God and Man. The Word of God is the great <hi>Standard</hi> whereby your Con<g ref="char:EOLhyphen"/>ſciences muſt be guided; and that Word tells you, that you are to <hi>render to Caeſar the things that are</hi> Caeſars. That Word tells you, That <hi>Sedition</hi> is a work of the Fleſh, and that Rebel<g ref="char:EOLhyphen"/>lion is as the ſin of Witchcraft: That Word gives them the Character of <hi>Reprobates,</hi> and ranks them in <hi>Jannes</hi> and <hi>Jambres</hi>'s Society, that reſiſt the Truth. That Word calls them the Enemies of God, who have evil will at <hi>Sion,</hi> and are Enemies to the Church, to whom Kings are bound to be Nurſing-Fathers. And that Word requires you, as to Fear God, ſo to Honour the King, and not to meddle with them who are given to Changes. Take heed therefore
+<pb n="26" facs="tcp:94546:14"/>
+that you leap not over your Lines, or break your Ranks, or run croſs to the Laws of your great Commander, leſt you be found even to Fight againſt God. Beware that for the ſake of Liberty, you engage not againſt Authority; that you plead not Conſcience to deſtroy Obedience; and that you pawn not your Souls as Hoſtages, under a pretence of Redeeming Religion: But let the Faith of Chriſt be your Buckler, and Truſt in God be your Helmet, and whatſoever is juſt, and pure, and honeſt, and lovely, and of good report, be the reſt of your Accoutrements; and then will the <hi>Spirit</hi> of God be your Strength, and the Providence of God will be your Banner, and a Crown of Righteouſneſs will be your Prize, and the Kingdom of Heaven the Place of your Everlaſting Triumphs. <hi>To which Kingdom, God of his mercy bring us all, for Chriſt Jeſus his ſake, the Prince of Peace, and the Captain of our Salvation: To whom be Glory and Dominion, world without end.</hi>
+            </p>
+            <closer>Amen.</closer>
+            <pb facs="tcp:94546:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
